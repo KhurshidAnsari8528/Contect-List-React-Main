@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Contect-List-React-Main/static/css/main.3104be20.css",
+    "main.js": "/Contect-List-React-Main/static/js/main.0dd0ffbf.js",
+    "index.html": "/Contect-List-React-Main/index.html",
+    "main.3104be20.css.map": "/Contect-List-React-Main/static/css/main.3104be20.css.map",
+    "main.0dd0ffbf.js.map": "/Contect-List-React-Main/static/js/main.0dd0ffbf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3104be20.css",
+    "static/js/main.0dd0ffbf.js"
+  ]
+}
